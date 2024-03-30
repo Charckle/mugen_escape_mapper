@@ -7,3 +7,7 @@
 - because: "Just use a third party mapping app" sounds stupid and an overkill, to get basic functionalities
 - this code has 32 lines and it does the job.
 - all you need is python and pip. the code is transparent, easy to use, and above all, simple
+
+# Install
+- `sudo apt-get install python3-tk python3-dev python3 python3-pip
+- `pip3 -r requirements.txt`
